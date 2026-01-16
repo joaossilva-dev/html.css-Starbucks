@@ -1,6 +1,8 @@
 # html.css-Starbucks
 Responsive Starbucks landing page built with HTML5 and CSS3 using CSS Grid and Media Queries.
 
+🔗 Live project:
+https://joaossilva-dev.github.io/html.css-Starbucks/
 
 The objective of this project is to build a responsive landing page inspired by Starbucks, focusing on layout structure, visual organization and real-world responsiveness.
 The project was developed to practice and consolidate HTML5 and CSS3 fundamentals, with special attention to CSS Grid, media queries and adaptive behavior across different screen sizes.
